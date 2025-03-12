@@ -1,5 +1,9 @@
 hello
+<<<<<<< HEAD
 dinesh 14 aws arch
 dinesh 14 handballer
 dinesh 05 old number
 
+=======
+dinesh 14
+>>>>>>> parent of a5a55fd (Update demo.txt)
